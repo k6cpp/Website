@@ -1,0 +1,6 @@
+#Node Modules Folder
+node_modules
+
+#Next building folder
+.next
+out

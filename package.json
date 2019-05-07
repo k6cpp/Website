@@ -1,0 +1,28 @@
+{
+  "name": "k6cpp",
+  "version": "0.0.1",
+  "description": "Cal Poly Pomona Amateur Radio Club (K6CPP) Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "next",
+    "dev": "next dev",
+    "build": "next build",
+    "export": "next export"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k6cpp/Website.git"
+  },
+  "author": "Ryan White <ryan@ryansw.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/k6cpp/Website/issues"
+  },
+  "homepage": "https://github.com/k6cpp/Website#readme",
+  "dependencies": {
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
